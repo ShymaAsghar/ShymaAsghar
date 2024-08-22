@@ -8,7 +8,7 @@ During the pandemic, I discovered my passion for data through self-learning. Usi
 
 * 🌍  I'm based in London UK / Riyadh Saudi Arabia
 * ✉️  You can contact me at [asghar.shyma@outlook.com](mailto:asghar.shyma@outlook.com)
-* 🧠  I'm learning PowerBI on Microsoft Learn
+* 🧠  Enrolled on a Data Bootcamp
 * 🤝  I'm open to collaborating on projects impacting children, and/or cancer patients and their families.
 * ⚡  Fluent in Punjabi and Urdu and also know Fush-ha Arabic to an intermediate level.
 
